@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: ""
+        deploy: ""
+    subdomain: dentl-backendv2
+name: dentl-backendv2
+region: us-east-1
+yamlVersion: 2
